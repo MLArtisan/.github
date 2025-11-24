@@ -28,7 +28,7 @@ docker run -d -p 80:80 \
 
 ---
 
-## 🌍 Live Demo
+## 🌍 Live Beta
 
 Try the cloud version here: [mlartisan.com](https://mlartisan.com)
 
@@ -45,8 +45,20 @@ If you’d like to test MLArtisan and share feedback:
 ---
 
 ## 📅 Recent Updates
+- **Enhanced Model Management**
+- **ONNX Import Support**
+  - Map model inputs/outputs to schemas
+  - Versioning support
+  - Run predictions via API and UI
+- **Initial Release**:
+  - Schema creation
+  - Dataset upload
+  - Training multiple algorithms (NN, RNN, KMeans, Logistic Regression, etc.)
+
+REST API model serving
+- **Enhanced Model Management**
 - **ONNX import support** (map inputs/outputs to schemas, versioning, API/UI predictions)  
-- **Initial release**: schema creation, dataset upload, Neural Networks & KMeans training, REST API support  
+- **Initial release**: schema creation, dataset upload, Neural Networks, RNN, KMeans and more training, REST API support  
 
 ---
 
