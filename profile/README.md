@@ -55,11 +55,6 @@ If you’d like to test MLArtisan and share feedback:
   - Dataset upload
   - Training multiple algorithms (NN, RNN, KMeans, Logistic Regression, etc.)
 
-REST API model serving
-- **Enhanced Model Management**
-- **ONNX import support** (map inputs/outputs to schemas, versioning, API/UI predictions)  
-- **Initial release**: schema creation, dataset upload, Neural Networks, RNN, KMeans and more training, REST API support  
-
 ---
 
 ## 📬 Contact
