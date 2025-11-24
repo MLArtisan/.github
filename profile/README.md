@@ -59,4 +59,8 @@ If you’d like to test MLArtisan and share feedback:
 
 ## 📬 Contact
 Follow updates here on GitHub or visit [mlartisan.com](https://mlartisan.com).  
-For questions or collaboration, feel free to open an issue or reach out on [LinkedIn](https://linkedin.com).  
+
+For questions or collaboration:
+- Open an issue
+- Join the discussions
+- Or reach out via LinkedIn
